@@ -1,8 +1,4 @@
-I'll review your SQL file and update the description with the actual techniques you used. Let me process the file now.
 
-Based on your SQL file, here’s an updated GitHub project description with the actual techniques used:  
-
----
 
 # 🛠️ Data Cleaning in SQL – Layoff Dataset  
 
